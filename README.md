@@ -1,4 +1,4 @@
-![image](https://github.com/CH2-PR636/Machine-Learning/assets/152943084/0641a351-cfa1-4b5a-bd6c-4b6393d5cefd)# Machine-Learning
+# Machine-Learning
 
 In this project, we make a model to detect images to know what waste is shown by user, and we classify it into organic and inorganic. 
 Our training model uses a dataset from https://www.kaggle.com/datasets/techsash/waste-classification-data
